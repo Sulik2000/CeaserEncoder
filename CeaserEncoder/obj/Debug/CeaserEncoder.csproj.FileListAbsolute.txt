@@ -1,0 +1,7 @@
+C:\Users\Sulik\source\repos\CeaserEncoder\CeaserEncoder\bin\Debug\CeaserEncoder.exe.config
+C:\Users\Sulik\source\repos\CeaserEncoder\CeaserEncoder\bin\Debug\CeaserEncoder.exe
+C:\Users\Sulik\source\repos\CeaserEncoder\CeaserEncoder\bin\Debug\CeaserEncoder.pdb
+C:\Users\Sulik\source\repos\CeaserEncoder\CeaserEncoder\obj\Debug\CeaserEncoder.csprojAssemblyReference.cache
+C:\Users\Sulik\source\repos\CeaserEncoder\CeaserEncoder\obj\Debug\CeaserEncoder.csproj.CoreCompileInputs.cache
+C:\Users\Sulik\source\repos\CeaserEncoder\CeaserEncoder\obj\Debug\CeaserEncoder.exe
+C:\Users\Sulik\source\repos\CeaserEncoder\CeaserEncoder\obj\Debug\CeaserEncoder.pdb
